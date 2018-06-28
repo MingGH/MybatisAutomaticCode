@@ -32,7 +32,6 @@ public class MybatisGenerator {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
     }
 
 }
