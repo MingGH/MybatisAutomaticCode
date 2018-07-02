@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="MybatisAutomaticCode" />
+        <module name="dao" />
+        <module name="model" />
       </profile>
     </annotationProcessing>
   </component>

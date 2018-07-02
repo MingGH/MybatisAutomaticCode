@@ -1,10 +1,8 @@
-package com.asher.mapper;
+package com.asher.dao.basic;
 
-import com.asher.entity.Customer;
-import com.asher.entity.CustomerExample;
-
+import com.asher.pojo.basic.Customer;
+import com.asher.pojo.basic.CustomerExample;
 import java.util.List;
-
 import org.apache.ibatis.annotations.Param;
 
 public interface CustomerMapper {

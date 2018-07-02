@@ -1,4 +1,4 @@
-package com.asher.entity;
+package com.asher.pojo.basic;
 
 public class Customer {
     private Integer customerId;

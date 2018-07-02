@@ -1,4 +1,4 @@
-package com.asher.entity;
+package com.asher.pojo.basic;
 
 import java.util.ArrayList;
 import java.util.List;
